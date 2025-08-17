@@ -1,0 +1,38 @@
+{
+  "name": "DogsTube",
+  "short_name": "DogsTube",
+  "start_url": "/?utm_source=homescreen",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Must love dogs",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinWQx-YTgrISjMnxHBD2AB5BVgQK2I2r-HyShxdoA1Uq8TddQwcHX73oDOlOd8xiDzaez1xlDMhCF7MDRdsUx1pDzTEl-dQMJy0HjH-mfmEtqNywMPhAEkTBm_qB-_tCow7Ka5kv88lDvMb2i1dqPs71Phjagv4FpWFpftjXu3Lgmnk9Zogn89Mdrh/w192-h192-p-k-no-nu/ICON.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinWQx-YTgrISjMnxHBD2AB5BVgQK2I2r-HyShxdoA1Uq8TddQwcHX73oDOlOd8xiDzaez1xlDMhCF7MDRdsUx1pDzTEl-dQMJy0HjH-mfmEtqNywMPhAEkTBm_qB-_tCow7Ka5kv88lDvMb2i1dqPs71Phjagv4FpWFpftjXu3Lgmnk9Zogn89Mdrh/w512-h512-p-k-no-nu/ICON.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpGiqkIzIfhcev7L44Yzm7jlrWONnz65IUrQrqeINz5ipKS3lMai41GdnE33t-HTEk99P3Cyq3dvekRIy_5AFJL5kNJRAlpWccG5UXg_9XUEUbxwxsm07jPMHgvYn1Oero4H16gSz_Jchn2KFDYk7IkTG5-A7nAoIXbp-krPzdT8zmOXMeLBJG0jiy/s0/screenshot-narrow-1.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKybyAl0evbrpFp2JbA8EgxQ62NzWynjx6Vxd97l6K1Ln5Bt6B89IH81VipJTAw9A4YtkSTPCOHb5GzLnRK1Qn7Ft-qEAlSqu9gRKhT1Jsr48W8NGUjV0S39b0FcKL_Ao-5KWJtHej1uQi-OwHTOWAjIq-pIzdPCgCFOj9ANyABA9CjZu8v_VyAk4r/s0/screenshot-wide-1.png,
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
