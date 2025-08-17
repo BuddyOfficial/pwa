@@ -1,8 +1,8 @@
 {
   "name": "DogsTube",
   "short_name": "DogsTube",
-  "start_url": "/?utm_source=homescreen",
-  "scope": "/",
+  "start_url": "https://www.dogz.cc/?utm_source=homescreen",
+  "scope": "https://www.dogz.cc/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -36,3 +36,4 @@
     }
   ]
 }
+
