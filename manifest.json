@@ -1,8 +1,8 @@
 {
   "name": "DogsTube",
   "short_name": "DogsTube",
-  "start_url": "https://cdn.dogz.cc/?utm_source=homescreen",
-  "scope": "https://cdn.dogz.cc/",
+  "start_url": "https://xgiucitipmhp3233.blogspot.com/?utm_source=homescreen",
+  "scope": "https://xgiucitipmhp3233.blogspot.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -36,5 +36,6 @@
     }
   ]
 }
+
 
 
