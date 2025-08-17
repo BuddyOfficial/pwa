@@ -13,7 +13,7 @@
   <!-- تسجيل Service Worker -->
   <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register("https://cdn.dogz.cc/sw.js")
+      navigator.serviceWorker.register("https://cdn.dogz.cc/sw.js?v=7")
         .then(reg => console.log("SW registered", reg.scope))
         .catch(err => console.error("SW failed", err));
     }
