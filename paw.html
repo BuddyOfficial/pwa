@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>صفحتك</title>
+
+  <!-- اللون الرئيسي للمتصفح -->
+  <meta name="theme-color" content="#ffffff"/>
+
+  <!-- ملف الـ manifest -->
+  <link rel="manifest" href="https://cdn.dogz.cc/manifest.json?v=6"/>
+
+  <!-- تسجيل Service Worker -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register("https://cdn.dogz.cc/sw.js")
+        .then(reg => console.log("SW registered", reg.scope))
+        .catch(err => console.error("SW failed", err));
+    }
+  </script>
+</head>
+<body>
+
+  <!-- محتوى الصفحة هنا -->
+
+</body>
+</html>
